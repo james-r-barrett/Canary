@@ -84,4 +84,4 @@ see [LICENSE](LICENSE)
 
 If you use this system in published research, please cite this repository:
 
-> Barrett, J.R. (2026). Lab Gas Monitor. GitHub. https://github.com/james-r-barrett/gas-monitor
+> Barrett, J.R. (2026). Canary. GitHub. https://github.com/james-r-barrett/Canary
